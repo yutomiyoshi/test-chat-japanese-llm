@@ -9,3 +9,5 @@
 ### 手順
 
 main.ipynbを実行していく。
+
+[ガイドライン](https://huggingface.co/cyberagent/calm2-7b-chat)
